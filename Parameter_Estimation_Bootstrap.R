@@ -25,10 +25,7 @@ hist(gamma.arrivals$V1,
      breaks = seq(min(gamma.arrivals$V1), max(gamma.arrivals$V1), length.out = 11),
      plot = FALSE)
 
-
-
 #---------------------------------------------------------------------------------
-
 # PART B
 #-------------
 # Let's assume that the interarrival times are gamma distributed.
