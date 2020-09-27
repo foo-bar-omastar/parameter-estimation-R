@@ -7,8 +7,7 @@ The problem statement is taken from Chapter 8 (Estimation of Parameters and Fitt
 The question contains a lot of parts, but we have consolidated some of these parts together in order to re-use code and answer as much as possible together.
  
 
-### Data Description 
-
+### Data Description:
 The data set gamma - arrivals consists of data collected from the Compton Gamma Ray Observatory, a satellite launched by NASA in 1991. This dataset contains the interarrival times, the times between arrivals, of 3935 photons measured in seconds.
 
 
