@@ -11,6 +11,6 @@ The question contains a lot of parts, but we have consolidated some of these par
 The data set gamma-arrivals consists of data collected from the Compton Gamma Ray Observatory, a satellite launched by NASA in 1991. This dataset contains the interarrival times, the times between arrivals, of 3935 photons measured in seconds.
 
 
-### Problem Statement : 
+### Problem Statement: 
 
 It is written in the code as comments.
